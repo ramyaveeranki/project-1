@@ -1,0 +1,4 @@
+git init <directory_name> (to create new git initiation directory)
+git status (it will show you current branch and files which are ready to commit)
+git add <file_name> (to move file from local to git staging)
+git commit -m "this is my first file in the project"  (to commit file from stage to local repo)
